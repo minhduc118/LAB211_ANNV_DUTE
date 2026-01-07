@@ -5,5 +5,19 @@
         <group name="LAB211-HOLA">
             <file>file:/D:/TEACHING_ONLE/LAB211-HOLA/Worker_56/src/model/Worker.java</file>
         </group>
+        <group name="LAB211_ANNV22_DUTE">
+            <file>file:/D:/FPT%20UNIVERSITY/LAB211_DUTE/LAB211_ANNV22_DUTE/J1.S.P0056_Worker/src/constants/Messages.java</file>
+            <file>file:/D:/FPT%20UNIVERSITY/LAB211_DUTE/LAB211_ANNV22_DUTE/J1.S.P0056_Worker/src/model/Worker.java</file>
+            <file>file:/D:/FPT%20UNIVERSITY/LAB211_DUTE/LAB211_ANNV22_DUTE/J1.S.P0056_Worker/src/exception/DuplicateWorkerException.java</file>
+            <file>file:/D:/FPT%20UNIVERSITY/LAB211_DUTE/LAB211_ANNV22_DUTE/J1.S.P0056_Worker/src/controller/ManagementController.java</file>
+            <file>file:/D:/FPT%20UNIVERSITY/LAB211_DUTE/LAB211_ANNV22_DUTE/J1.S.P0056_Worker/src/service/ManagementServiceImpl.java</file>
+            <file>file:/D:/FPT%20UNIVERSITY/LAB211_DUTE/LAB211_ANNV22_DUTE/J1.S.P0056_Worker/src/dto/WorkerDTO.java</file>
+            <file>file:/D:/FPT%20UNIVERSITY/LAB211_DUTE/LAB211_ANNV22_DUTE/J1.S.P0056_Worker/src/model/SalaryHistory.java</file>
+            <file>file:/D:/FPT%20UNIVERSITY/LAB211_DUTE/LAB211_ANNV22_DUTE/J1.S.P0056_Worker/src/service/ManagementService.java</file>
+            <file>file:/D:/FPT%20UNIVERSITY/LAB211_DUTE/LAB211_ANNV22_DUTE/J1.S.P0056_Worker/src/util/Validator.java</file>
+            <file>file:/D:/FPT%20UNIVERSITY/LAB211_DUTE/LAB211_ANNV22_DUTE/J1.S.P0056_Worker/src/exception/SystemException.java</file>
+            <file>file:/D:/FPT%20UNIVERSITY/LAB211_DUTE/LAB211_ANNV22_DUTE/J1.S.P0056_Worker/src/program/Main.java</file>
+            <file>file:/D:/FPT%20UNIVERSITY/LAB211_DUTE/LAB211_ANNV22_DUTE/J1.S.P0056_Worker/src/Main.java</file>
+        </group>
     </open-files>
 </project-private>
