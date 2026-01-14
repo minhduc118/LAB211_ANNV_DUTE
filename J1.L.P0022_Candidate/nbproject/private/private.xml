@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group/>
+        <group name="LAB211-HOLA"/>
+        <group name="LAB211_ANNV22_DUTE">
+            <file>file:/D:/DUTE_Corporation/LAB211_DUTE/LAB211_ANNV22_DUTE/J1.L.P0022_Candidate/src/exception/DuplicateCandidateException.java</file>
+            <file>file:/D:/DUTE_Corporation/LAB211_DUTE/LAB211_ANNV22_DUTE/J1.L.P0022_Candidate/src/service/CandidateServiceImpl.java</file>
+            <file>file:/D:/DUTE_Corporation/LAB211_DUTE/LAB211_ANNV22_DUTE/J1.L.P0022_Candidate/src/constants/Messages.java</file>
+            <file>file:/D:/DUTE_Corporation/LAB211_DUTE/LAB211_ANNV22_DUTE/J1.L.P0022_Candidate/src/dto/CandidateDTO.java</file>
+            <file>file:/D:/DUTE_Corporation/LAB211_DUTE/LAB211_ANNV22_DUTE/J1.L.P0022_Candidate/src/controller/CandidateController.java</file>
+            <file>file:/D:/DUTE_Corporation/LAB211_DUTE/LAB211_ANNV22_DUTE/J1.L.P0022_Candidate/src/exception/CandidateNotFoundException.java</file>
+            <file>file:/D:/DUTE_Corporation/LAB211_DUTE/LAB211_ANNV22_DUTE/J1.L.P0022_Candidate/src/service/CandidateService.java</file>
+        </group>
+    </open-files>
+</project-private>
